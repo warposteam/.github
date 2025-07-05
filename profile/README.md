@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/renuxteam/renuxos-src">
-    <img alt="Core Project" src="https://img.shields.io/badge/Core%20Project-RenuxOS-purple.svg?style=for-the-badge">
+    <img alt="Core Project" src="https://img.shields.io/badge/Core%20Project-RenuxOS-blue.svg?style=for-the-badge">
   </a>
   <img alt="Language" src="https://img.shields.io/badge/Built%20with-Zig-orange.svg?style=for-the-badge">
   <!-- Add a link to your website or Discord here if you have one -->
