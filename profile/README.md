@@ -4,8 +4,12 @@ We are a community dedicated to research, development, and experimentation in op
 
 ## Main Project
 
-- [**WarpOS**](https://github.com/warposteam/warpos-src)  
-  An experimental operating system written in C and Zig, focused on performance, modularity, and low-level systems study.
+- [**WarpOS**](https://codeberg.org/warposteam/warpos-src)  
+  An experimental operating system written in Zig, C and Rust, focused on performance, modularity, and low-level systems study.
+
+## Important Update 🚨
+**WarpOS source code has moved to Codeberg!**  
+We've migrated our repository to [Codeberg](https://codeberg.org/warposteam) to embrace full open-source transparency (as Codeberg is entirely open-source) and to accelerate development. This move will also simplify project maintenance and collaboration.
 
 ## Our Values
 
@@ -15,11 +19,10 @@ We are a community dedicated to research, development, and experimentation in op
 
 ## How to Get Involved
 
-- Explore our repositories and documentation.
-- Submit suggestions, questions, or contribute with code and ideas.
-- Connect with us via [discussions](https://github.com/orgs/warposteam/discussions) or [issues](https://github.com/warposteam/warpos-src/issues).
+- Explore our repositories and documentation on Codeberg
+- Submit suggestions, questions, or contribute with code and ideas
+- Join our [discussions and issues on Codeberg](https://codeberg.org/warposteam/discussions/issues)
 
 ## Contact
-
-- [Organization profile](https://github.com/warposteam)
-- [Discussions](https://github.com/orgs/warposteam/discussions)
+- [Codeberg Organization](https://codeberg.org/warposteam)
+- [Discussions & Issues](https://codeberg.org/warposteam/discussions/issues)
